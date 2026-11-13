@@ -16,8 +16,8 @@ Actualmente me encuentro en mi primer año de carrera. Mi enfoque no es simpleme
 ### 🛠️ Ecosistema de Trabajo
 - **Lenguajes:** `C++` (aplicando rigurosamente la *Google C++ Style Guide*)
 - **Construcción:** `Make` y `CMake`
-- **Control de Versiones:** `Git` (flujo de trabajo estructurado por terminal)
-- **Entornos y Sistemas:** `Linux` (Ubuntu) y `Docker`
+- **Sistemas y Terminal:** `Linux` (Ubuntu) y *scripting* básico en `Bash`
+- **Control de Versiones:** `Git` (flujo de trabajo estructurado por terminal y SSH)
 
 ### 📬 Contacto
 - ✉️ **Email:** [migsalav63@gmail.com](mailto:migsalav63@gmail.com)
